@@ -95,7 +95,6 @@
     <Compile Include="ann\perceptron\Perceptron2D.cs" />
     <Compile Include="ann\perceptron\Perceptron3D.cs" />
     <Compile Include="math\activation_functions\Tanh.cs" />
-    <Compile Include="math\FibonacciManager.cs" />
     <Compile Include="math\functions\Function.cs" />
     <Compile Include="math\functions\iterative\ForLoopCondition.cs" />
     <Compile Include="math\graphs\Edge.cs" />
@@ -130,6 +129,9 @@
     <Compile Include="search\select\Selection.cs" />
     <Compile Include="search\select\Tournament.cs" />
     <Compile Include="search\space\Space.cs" />
+    <Compile Include="search\variate\Real\ArithmeticCrossover.cs" />
+    <Compile Include="search\variate\Real\Differential.cs" />
+    <Compile Include="search\variate\Real\XOver.cs" />
     <Compile Include="search\variate\Variation.cs" />
     <Compile Include="search\variate\Variation_1_m.cs" />
     <Compile Include="search\variate\Variation_2_m.cs" />
