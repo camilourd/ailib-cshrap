@@ -6,3 +6,7 @@ D:\Github\P.Bolsa-2015-I-UNAL\Libraries\C#\ailib\ailib\bin\Debug\ailib.dll
 D:\Github\P.Bolsa-2015-I-UNAL\Libraries\C#\ailib\ailib\bin\Debug\ailib.pdb
 D:\Github\P.Bolsa-2015-I-UNAL\Libraries\C#\ailib\ailib\obj\Debug\ailib.dll
 D:\Github\P.Bolsa-2015-I-UNAL\Libraries\C#\ailib\ailib\obj\Debug\ailib.pdb
+D:\Github\ailib-cshrap\ailib\ailib\bin\Debug\ailib.dll
+D:\Github\ailib-cshrap\ailib\ailib\bin\Debug\ailib.pdb
+D:\Github\ailib-cshrap\ailib\ailib\obj\Debug\ailib.dll
+D:\Github\ailib-cshrap\ailib\ailib\obj\Debug\ailib.pdb

@@ -112,6 +112,7 @@
     <Compile Include="random\InverseGenerator.cs" />
     <Compile Include="random\RandomGenerator.cs" />
     <Compile Include="random\real\StandardPowerLaw.cs" />
+    <Compile Include="random\Shuffle.cs" />
     <Compile Include="random\StandarRandomGenerator.cs" />
     <Compile Include="search\BasicGoalBased.cs" />
     <Compile Include="search\Goal.cs" />
